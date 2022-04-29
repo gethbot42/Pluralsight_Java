@@ -9,6 +9,7 @@ public class Main {
 		String s = "Hello, World!";
 		boolean b = p.test(s);
 		System.out.println("String s is less than 20 chars: " + b);
+		
 	}
 
 }
